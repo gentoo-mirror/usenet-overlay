@@ -1,3 +1,4 @@
 net-nntp/lidarr 0.7.0.1347 0.7.1.1381: Lidarr is a music collection manager for Usenet and BitTorrent users.
 net-nntp/radarr 0.2.0.1293 0.2.0.1344 0.2.0.1358: A fork of Sonarr to work with movies a la Couchpotato.
 net-nntp/sonarr 2.0.0.5252 2.0.0.5322: Sonarr is a Smart PVR for newsgroup and bittorrent users.
+net-nntp/sonarr-v3 3.0.3.654: Sonarr is a Smart PVR for newsgroup and bittorrent users.
