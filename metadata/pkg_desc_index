@@ -9,5 +9,5 @@ acct-user/sonarr-v3 0: User for sonarr
 media-video/filebot 4.7.9-r2 4.8.5-r1: Java-based tools to rename TV shows, download subtitles, and validate checksums
 net-nntp/lidarr 0.7.1.1381-r1: Lidarr is a music collection manager for Usenet and BitTorrent users.
 net-nntp/radarr 0.2.0.1480-r1: A fork of Sonarr to work with movies a la Couchpotato.
-net-nntp/sonarr 2.0.0.5322-r1: Sonarr is a Smart PVR for newsgroup and bittorrent users.
+net-nntp/sonarr 2.0.0.5322-r1 2.0.0.5344: Sonarr is a Smart PVR for newsgroup and bittorrent users.
 net-nntp/sonarr-v3 3.0.3.701-r1 3.0.3.750: Sonarr is a Smart PVR for newsgroup and bittorrent users.
