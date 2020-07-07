@@ -1,0 +1,12 @@
+BDEPEND=virtual/pkgconfig
+DEFINED_PHASES=install
+DESCRIPTION=Sonarr is a Smart PVR for newsgroup and bittorrent users.
+EAPI=7
+HOMEPAGE=https://www.sonarr.tv
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=acct-group/sonarr-v3 acct-user/sonarr-v3 >=dev-lang/mono-4.8.0.524 media-video/mediainfo dev-db/sqlite
+SLOT=0
+SRC_URI=https://download.sonarr.tv/v3/phantom-develop/3.0.3.896/Sonarr.phantom-develop.3.0.3.896.linux.tar.gz
+_eclasses_=multilib	2477ebe553d3e4d2c606191fe6c33602	systemd	71fd8d2065d102753fb9e4d20eaf3e9f	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
+_md5_=754fbc9340902e3ffdd99ed736094cc2
