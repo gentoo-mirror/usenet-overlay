@@ -9,4 +9,4 @@ RDEPEND=acct-group/radarr acct-user/radarr >=dev-lang/mono-6.6.0.161 media-video
 SLOT=0
 SRC_URI=https://github.com/Radarr/Radarr/releases/download/v3.0.1.4259/Radarr.master.3.0.1.4259.linux-core-x64.tar.gz
 _eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	systemd	69be00334d73f9f50261554b94be0879	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
-_md5_=4bb682261c54f7fa351d69ad8c6d850b
+_md5_=bb991425109214d03018da4e66b7a3f0
