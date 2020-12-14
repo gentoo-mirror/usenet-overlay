@@ -16,8 +16,8 @@ KEYWORDS="~amd64"
 RDEPEND="
 	acct-group/radarr
 	acct-user/radarr
-	>=dev-lang/mono-6.6.0.161
 	media-video/mediainfo
+	dev-util/lttng-ust
 	dev-db/sqlite"
 
 MY_PN=Radarr
@@ -41,5 +41,5 @@ src_install() {
 	cp -R "${WORKDIR}/${MY_PN}/." "${D}/usr/share/radarr" || die "Install failed!"
 
 	systemd_dounit "${FILESDIR}/radarr-v3.service"
-	systemd_newunit "${FILESDIR}/radarr-v3.service" "${PN}@.service"
+	systemd_newunit "${FILESDIR}/radarr-v3.service" "${PN}-v3@.service"
 }
