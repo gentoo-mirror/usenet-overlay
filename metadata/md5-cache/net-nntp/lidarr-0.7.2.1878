@@ -8,5 +8,5 @@ LICENSE=GPL-3
 RDEPEND=acct-group/lidarr acct-user/lidarr >=dev-lang/mono-4.4.1.0 media-video/mediainfo dev-db/sqlite media-libs/chromaprint[tools]
 SLOT=0
 SRC_URI=https://github.com/lidarr/Lidarr/releases/download/v0.7.2.1878/Lidarr.master.0.7.2.1878.linux.tar.gz
-_eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	systemd	69be00334d73f9f50261554b94be0879	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
+_eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	systemd	74b223e42834adf09a2d21fe5fe13741	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
 _md5_=4b5a7a6a7963830af88b21c1852bded1
