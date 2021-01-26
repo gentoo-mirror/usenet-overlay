@@ -3,10 +3,11 @@ DEFINED_PHASES=install
 DESCRIPTION=A fork of Sonarr to work with movies a la Couchpotato.
 EAPI=7
 HOMEPAGE=https://www.radarr.video
-KEYWORDS=~amd64
+KEYWORDS=amd64
 LICENSE=GPL-3
-RDEPEND=acct-group/radarr acct-user/radarr >=dev-lang/mono-6.6.0.161 media-video/mediainfo dev-db/sqlite
+RDEPEND=acct-group/radarr acct-user/radarr media-video/mediainfo dev-util/lttng-ust dev-db/sqlite
+RESTRICT=bindist strip test
 SLOT=0
-SRC_URI=https://github.com/Radarr/Radarr/releases/download/v3.0.0.4204/Radarr.master.3.0.0.4204.linux-core-x64.tar.gz
+SRC_URI=https://github.com/Radarr/Radarr/releases/download/v3.0.2.4369/Radarr.develop.3.0.2.4369.linux-core-x64.tar.gz
 _eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	systemd	74b223e42834adf09a2d21fe5fe13741	toolchain-funcs	24921b57d6561d87cbef4916a296ada4
-_md5_=bb991425109214d03018da4e66b7a3f0
+_md5_=17740c7108bf353bf13a077ae5b7ce97
