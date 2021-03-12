@@ -10,4 +10,4 @@ RESTRICT=bindist strip test
 SLOT=0
 SRC_URI=https://download.sonarr.tv/v3/main/3.0.5.1144/Sonarr.main.3.0.5.1144.linux.tar.gz
 _eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	systemd	74b223e42834adf09a2d21fe5fe13741	toolchain-funcs	24921b57d6561d87cbef4916a296ada4
-_md5_=e165edda98dffaf01df79297ca81ec47
+_md5_=78338e1d68a30cf9f72a9d3b56d339b7
