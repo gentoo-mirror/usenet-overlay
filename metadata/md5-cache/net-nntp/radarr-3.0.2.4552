@@ -10,4 +10,4 @@ RESTRICT=bindist strip test
 SLOT=0
 SRC_URI=https://github.com/Radarr/Radarr/releases/download/v3.0.2.4552/Radarr.master.3.0.2.4552.linux-core-x64.tar.gz
 _eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	systemd	74b223e42834adf09a2d21fe5fe13741	toolchain-funcs	24921b57d6561d87cbef4916a296ada4
-_md5_=af28c5ab672b110f13f9d9327f0a428b
+_md5_=b0f5d6bf414393d38578136fbe830738
