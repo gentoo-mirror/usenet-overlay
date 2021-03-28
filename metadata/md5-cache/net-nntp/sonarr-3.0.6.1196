@@ -1,0 +1,14 @@
+BDEPEND=virtual/pkgconfig
+DEFINED_PHASES=install
+DESCRIPTION=Sonarr is a Smart PVR for newsgroup and bittorrent users.
+EAPI=7
+HOMEPAGE=https://www.sonarr.tv
+INHERIT=systemd
+KEYWORDS=~amd64
+LICENSE=GPL-3
+RDEPEND=acct-group/sonarr acct-user/sonarr >=dev-lang/mono-6.6.0.161 media-video/mediainfo dev-db/sqlite
+RESTRICT=bindist strip test
+SLOT=0
+SRC_URI=https://download.sonarr.tv/v3/main/3.0.6.1196/Sonarr.main.3.0.6.1196.linux.tar.gz
+_eclasses_=toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	systemd	74b223e42834adf09a2d21fe5fe13741
+_md5_=78338e1d68a30cf9f72a9d3b56d339b7
