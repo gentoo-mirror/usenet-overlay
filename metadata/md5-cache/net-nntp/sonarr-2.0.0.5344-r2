@@ -3,10 +3,11 @@ DEFINED_PHASES=install
 DESCRIPTION=Sonarr is a Smart PVR for newsgroup and bittorrent users.
 EAPI=7
 HOMEPAGE=https://www.sonarr.tv
+INHERIT=systemd
 KEYWORDS=amd64
 LICENSE=GPL-3
 RDEPEND=acct-group/sonarr acct-user/sonarr >=dev-lang/mono-6.6.0.161 media-video/mediainfo dev-db/sqlite
 SLOT=0
 SRC_URI=https://download.sonarr.tv/v2/master/mono/NzbDrone.master.2.0.0.5344.mono.tar.gz
-_eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	systemd	74b223e42834adf09a2d21fe5fe13741	toolchain-funcs	24921b57d6561d87cbef4916a296ada4
+_eclasses_=toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	systemd	fdf0d765c3f11f91fe54f8def9a8c0e6
 _md5_=ed441b8b33e1c5529765fd7bc75ef2ff
