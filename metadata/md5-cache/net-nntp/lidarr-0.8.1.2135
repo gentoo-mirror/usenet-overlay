@@ -1,0 +1,14 @@
+BDEPEND=virtual/pkgconfig
+DEFINED_PHASES=install
+DESCRIPTION=Lidarr is a music collection manager for Usenet and BitTorrent users.
+EAPI=7
+HOMEPAGE=https://github.com/lidarr/Lidarr
+INHERIT=systemd
+KEYWORDS=~amd64
+LICENSE=GPL-3
+RDEPEND=acct-group/lidarr acct-user/lidarr media-video/mediainfo dev-util/lttng-ust dev-db/sqlite media-libs/chromaprint[tools]
+RESTRICT=bindist strip test
+SLOT=0
+SRC_URI=https://github.com/lidarr/Lidarr/releases/download/v0.8.1.2135/Lidarr.master.0.8.1.2135.linux-core-x64.tar.gz
+_eclasses_=toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	systemd	fdf0d765c3f11f91fe54f8def9a8c0e6
+_md5_=849533153e06c762d02b8dce4df37f66
