@@ -8,6 +8,6 @@ acct-user/sonarr 0: User for sonarr
 acct-user/tautulli 0: User for tautulli
 media-video/filebot 4.9.2 4.9.3: Java-based tools to rename TV shows, download subtitles, and validate checksums
 net-nntp/lidarr 0.8.0.2042 0.8.1.2135: Lidarr is a music collection manager for Usenet and BitTorrent users.
-net-nntp/radarr 3.0.2.4552 3.1.1.4954: A fork of Sonarr to work with movies a la Couchpotato.
+net-nntp/radarr 3.0.2.4552 3.1.1.4954 3.2.0.5048: A fork of Sonarr to work with movies a la Couchpotato.
 net-nntp/sonarr 2.0.0.5344-r2 3.0.5.1144-r1 3.0.6.1196: Sonarr is a Smart PVR for newsgroup and bittorrent users.
 net-nntp/tautulli 2.6.5 2.6.8 2.7.2: A python based web application for monitoring your Plex Media Server.
