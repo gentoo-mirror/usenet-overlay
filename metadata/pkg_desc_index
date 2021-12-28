@@ -10,4 +10,4 @@ media-video/filebot 4.9.3: Java-based tools to rename TV shows, download subtitl
 net-nntp/lidarr 0.8.1.2135: Lidarr is a music collection manager for Usenet and BitTorrent users.
 net-nntp/radarr 3.2.0.5048 3.2.2.5080: A fork of Sonarr to work with movies a la Couchpotato.
 net-nntp/sonarr 3.0.6.1266 3.0.6.1335 3.0.6.1342: Sonarr is a Smart PVR for newsgroup and bittorrent users.
-net-nntp/tautulli 2.7.5 2.7.6: A python based web application for monitoring your Plex Media Server.
+net-nntp/tautulli 2.7.5 2.7.6 2.8.0: A python based web application for monitoring your Plex Media Server.
