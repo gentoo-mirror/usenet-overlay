@@ -1,13 +1,19 @@
 acct-group/lidarr 0: System group: lidarr
+acct-group/prowlarr 0: System group: prowlarr
 acct-group/radarr 0: System group: radarr
+acct-group/readarr 0: System group: readarr
 acct-group/sonarr 0: System group: sonarr
 acct-group/tautulli 0: System group: tautulli
 acct-user/lidarr 0: user for lidarr
+acct-user/prowlarr 0: User for prowlarr
 acct-user/radarr 0: User for radarr
+acct-user/readarr 0: User for readarr
 acct-user/sonarr 0: User for sonarr
 acct-user/tautulli 0: User for tautulli
 media-video/filebot 4.9.6: Java-based tools to rename TV shows, download subtitles, and validate checksums
 www-apps/lidarr 0.8.1.2135 1.0.0.2570 1.0.1.2578: Lidarr is a music collection manager for Usenet and BitTorrent users.
+www-apps/prowlarr 0.3.0.1730: An indexer manager/proxy to integrate with your various PVR apps.
 www-apps/radarr 4.0.5.5981 4.1.0.6175: A fork of Sonarr to work with movies a la Couchpotato.
+www-apps/readarr 0.1.1.1320: Book Manager and Automation (Sonarr for Ebooks)
 www-apps/sonarr 3.0.7.1477 3.0.8.1507: Sonarr is a Smart PVR for newsgroup and bittorrent users.
 www-apps/tautulli 2.9.7 2.10.0 2.10.1: A python based web application for monitoring your Plex Media Server.
