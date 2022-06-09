@@ -11,7 +11,7 @@ acct-user/readarr 0: User for readarr
 acct-user/sonarr 0: User for sonarr
 acct-user/tautulli 0: User for tautulli
 media-video/filebot 4.9.6: Java-based tools to rename TV shows, download subtitles, and validate checksums
-www-apps/lidarr 0.8.1.2135 1.0.0.2570 1.0.1.2578: Lidarr is a music collection manager for Usenet and BitTorrent users.
+www-apps/lidarr 0.8.1.2135 1.0.1.2578 1.0.2.2592: Lidarr is a music collection manager for Usenet and BitTorrent users.
 www-apps/prowlarr 0.3.0.1730: An indexer manager/proxy to integrate with your various PVR apps.
 www-apps/radarr 4.0.5.5981 4.1.0.6175: A fork of Sonarr to work with movies a la Couchpotato.
 www-apps/readarr 0.1.1.1320: Book Manager and Automation (Sonarr for Ebooks)
