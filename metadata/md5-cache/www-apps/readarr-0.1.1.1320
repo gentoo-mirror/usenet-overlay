@@ -10,5 +10,5 @@ RDEPEND=acct-group/readarr acct-user/readarr dev-libs/icu dev-util/lttng-ust dev
 RESTRICT=bindist strip test
 SLOT=0
 SRC_URI=amd64? ( https://github.com/Readarr/Readarr/releases/download/v0.1.1.1320/Readarr.develop.0.1.1.1320.linux-core-x64.tar.gz ) arm? ( https://github.com/Readarr/Readarr/releases/download/v0.1.1.1320/Readarr.develop.0.1.1.1320.linux-core-arm.tar.gz ) arm64? ( https://github.com/Readarr/Readarr/releases/download/v0.1.1.1320/Readarr.develop.0.1.1.1320.linux-core-arm64.tar.gz )
-_eclasses_=toolchain-funcs	fd9cde67030b26e479eeadaced488253	multilib	4fbbbc98f236f1b43acd99476bc3cd85	systemd	2736b403a83f194b59b767f3b344c2c1
+_eclasses_=toolchain-funcs	e9da88162e7a3c60376e80c2c2adcdfb	multilib	4fbbbc98f236f1b43acd99476bc3cd85	systemd	2736b403a83f194b59b767f3b344c2c1
 _md5_=52d3d174713d0af13960294abad2c83f
