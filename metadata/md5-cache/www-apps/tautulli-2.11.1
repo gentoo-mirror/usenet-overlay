@@ -1,6 +1,6 @@
 BDEPEND=virtual/pkgconfig
 DEFINED_PHASES=install postinst setup
-DEPEND=python_single_target_python3_10? ( >=dev-lang/python-3.10.12:3.10[sqlite(+)] ) python_single_target_python3_11? ( >=dev-lang/python-3.11.4:3.11[sqlite(+)] )
+DEPEND=python_single_target_python3_10? ( dev-lang/python:3.10[sqlite(+)] ) python_single_target_python3_11? ( dev-lang/python:3.11[sqlite(+)] )
 DESCRIPTION=A python based web application for monitoring your Plex Media Server.
 EAPI=8
 HOMEPAGE=https://tautulli.com
@@ -8,9 +8,9 @@ INHERIT=python-single-r1 systemd
 IUSE=python_single_target_python3_10 python_single_target_python3_11
 KEYWORDS=~amd64
 LICENSE=GPL-3
-RDEPEND=acct-user/tautulli acct-group/tautulli dev-python/pyopenssl python_single_target_python3_10? ( >=dev-lang/python-3.10.12:3.10[sqlite(+)] ) python_single_target_python3_11? ( >=dev-lang/python-3.11.4:3.11[sqlite(+)] )
+RDEPEND=acct-user/tautulli acct-group/tautulli dev-python/pyopenssl python_single_target_python3_10? ( dev-lang/python:3.10[sqlite(+)] ) python_single_target_python3_11? ( dev-lang/python:3.11[sqlite(+)] )
 RESTRICT=bindist strip test
 SLOT=0
 SRC_URI=https://github.com/Tautulli/Tautulli/archive/v2.11.1.tar.gz -> Tautulli-2.11.1.tar.gz
-_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	513c31b3346458ed1f3878b57da6d61c	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	a013e16d5d896b3d8be68dd2a0e846ea	python-single-r1	75118e916668a74c660a13b0ecb22562	systemd	5f4bb0758df2e483babf68cd517078ca
+_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	513c31b3346458ed1f3878b57da6d61c	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	7661dc585f75dd1f81eccefe37bef093	python-single-r1	75118e916668a74c660a13b0ecb22562	systemd	5f4bb0758df2e483babf68cd517078ca
 _md5_=2a3547e7f48015c7c61c828755b86a7f
