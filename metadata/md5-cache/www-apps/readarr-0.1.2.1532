@@ -10,5 +10,5 @@ RDEPEND=acct-group/readarr acct-user/readarr media-video/mediainfo dev-libs/icu 
 RESTRICT=bindist strip test
 SLOT=0
 SRC_URI=amd64? ( https://github.com/Readarr/Readarr/releases/download/v0.1.2.1532/Readarr.develop.0.1.2.1532.linux-core-x64.tar.gz ) arm? ( https://github.com/Readarr/Readarr/releases/download/v0.1.2.1532/Readarr.develop.0.1.2.1532.linux-core-arm.tar.gz ) arm64? ( https://github.com/Readarr/Readarr/releases/download/v0.1.2.1532/Readarr.develop.0.1.2.1532.linux-core-arm64.tar.gz )
-_eclasses_=toolchain-funcs	fbbbc99d10168de2926e06da7169b8dc	multilib	c19072c3cd7ac5cb21de013f7e9832e0	systemd	c8b03e8df84486aa991d4396686e8942
+_eclasses_=toolchain-funcs	70ec42843fec87d20fd94c67e77cdbff	multilib	c19072c3cd7ac5cb21de013f7e9832e0	systemd	c8b03e8df84486aa991d4396686e8942
 _md5_=004a2b77c2fe3333dba5b48699dfc8d8
