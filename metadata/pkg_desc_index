@@ -7,4 +7,5 @@ acct-user/tautulli 0: User for tautulli
 media-video/filebot 4.9.6: Java-based tools to rename TV shows, download subtitles, and validate checksums
 www-apps/lidarr 1.4.5.3639: Lidarr is a music collection manager for Usenet and BitTorrent users.
 www-apps/readarr 0.1.2.1532 0.1.4.1596: Book Manager and Automation (Sonarr for Ebooks)
+www-apps/sonarr 3.0.10.1567-r1: Sonarr is a Smart PVR for newsgroup and bittorrent users
 www-apps/tautulli 2.13.2: A python based web application for monitoring your Plex Media Server.
