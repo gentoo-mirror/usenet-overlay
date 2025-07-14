@@ -10,5 +10,5 @@ RDEPEND=acct-group/sonarr acct-user/sonarr >=dev-lang/mono-6.6.0.161 media-video
 RESTRICT=bindist strip test
 SLOT=0
 SRC_URI=https://download.sonarr.tv/v3/main/3.0.10.1567/Sonarr.main.3.0.10.1567.linux.tar.gz
-_eclasses_=toolchain-funcs	a6df79c1e9bc84369dbf3d44206ac772	systemd	a964c0cbe818b5729da1dbfcee5be861
+_eclasses_=toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	systemd	a964c0cbe818b5729da1dbfcee5be861
 _md5_=23843f305906d51a3a0de04da4596739
